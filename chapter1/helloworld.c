@@ -1,9 +1,9 @@
 #include <stdio.h>
 
-int main(int argc, char** argv)
+int main(void)
 {
     int a = 5 + 2;
     a += 3;
-    printf("hello world!\n");
+    printf("\033[35mhello world! %d\n", a);
     return 0;
 }
