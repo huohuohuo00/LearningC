@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-//把年龄转化为天数，不考虑闰年
+// 把年龄转化为天数，不考虑闰年
 int main()
 {
     int age = 23;
