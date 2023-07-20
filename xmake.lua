@@ -4,3 +4,4 @@ add_rules("mode.debug", "mode.release")
 includes("functions.lua")
 
 glob_targets("chapter1")
+glob_targets("chapter2")
