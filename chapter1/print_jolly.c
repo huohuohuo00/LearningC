@@ -1,15 +1,5 @@
 #include <stdio.h>
-void jolly(void);
-void deny(void);
-
-int main()
-{
-    jolly();
-    jolly();
-    jolly();
-    deny();
-    return 0;
-}
+#include <stdint.h>
 
 void jolly(void)
 {
@@ -19,4 +9,14 @@ void jolly(void)
 void deny(void)
 {
     printf("Which nobady can deny!");
+}
+
+int main()
+{
+    for (uint32_t i = 0; i < 3; i++)
+    {
+        jolly();
+    }
+    deny();
+    return 0;
 }
