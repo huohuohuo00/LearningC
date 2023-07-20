@@ -8,7 +8,7 @@ int main()
 {
     // int64_t/uint64_t
     // INT32_MAX == 2147483647
-    /*long long*/int64_t some_value = 2147483647 + 7LL;
+    /*long long*/ int64_t some_value = 2147483647 + 7LL;
     // => tmp = EXPRESSION
     // => tmp = tmp + 2147483647
     // => some_value = tmp
