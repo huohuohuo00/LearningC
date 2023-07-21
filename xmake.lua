@@ -5,3 +5,4 @@ includes("functions.lua")
 
 glob_targets("chapter1")
 glob_targets("chapter2")
+glob_targets("chapter3")
