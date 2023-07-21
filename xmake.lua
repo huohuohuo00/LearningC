@@ -1,4 +1,4 @@
--- 优化等级和调试符号
+﻿-- 优化等级和调试符号
 add_rules("mode.debug", "mode.release")
 
 includes("functions.lua")
