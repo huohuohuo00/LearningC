@@ -1,3 +1,15 @@
 {
-    "editor.formatOnSave": true
+    "editor.formatOnSave": true,
+    "clangd.arguments": [
+        "--header-insertion=never",
+        "--pretty",
+        "--compile-commands-dir=.vscode",
+        "--log=verbose",
+        "--header-insertion-decorators",
+        "--background-index",
+        "--clang-tidy",
+        "--pch-storage=memory",
+        "--inlay-hints=false",
+        "-j=10"
+    ]
 }

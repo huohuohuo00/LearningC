@@ -4,5 +4,6 @@ function glob_targets(dir)
             set_kind("binary")
             set_group(path.directory(filepath))
             add_files(filepath) 
+            add_defines("_CRT_SECURE_NO_WARNINGS")
     end
 end
