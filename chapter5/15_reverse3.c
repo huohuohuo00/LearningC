@@ -5,8 +5,8 @@ int main()
 {
     int  index = 0;
     char ch;
-    char word[40];
-    printf("please enter a word:");
+    char word[255] = { 0 };
+    printf("please enter some characters:");
     scanf("%c", &ch);
     while (ch != '\n')
     {
@@ -14,7 +14,6 @@ int main()
         index++;
         scanf("%c", &ch);
     }
-    word[index] = '\0';
     int size = strlen(word);
     int i;
     for (i = size - 1; i >= 0; i--)
