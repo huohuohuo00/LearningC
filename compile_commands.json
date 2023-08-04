@@ -1,0 +1,321 @@
+[
+{
+  "directory": "D:\\SaeruHikari\\fork\\LearningC",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\Llvm\\x64\\bin\\clang-cl.exe", "-c", "-Zi", "-FS", "-Fdbuild\\windows\\x64\\debug\\compile.reverse2.pdb", "-Od", "-D_CRT_SECURE_NO_WARNINGS", "/EHsc", "-Fobuild\\.objs\\reverse2\\windows\\x64\\debug\\chapter5\\reverse2.c.obj", "chapter5\\reverse2.c"],
+  "file": "chapter5\\reverse2.c"
+},
+{
+  "directory": "D:\\SaeruHikari\\fork\\LearningC",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\Llvm\\x64\\bin\\clang-cl.exe", "-c", "-Zi", "-FS", "-Fdbuild\\windows\\x64\\debug\\compile.sum of squares.pdb", "-Od", "-D_CRT_SECURE_NO_WARNINGS", "/EHsc", "-Fobuild\\.objs\\sum of squares\\windows\\x64\\debug\\chapter5\\sum of squares.c.obj", "chapter5\\sum of squares.c"],
+  "file": "chapter5\\sum of squares.c"
+},
+{
+  "directory": "D:\\SaeruHikari\\fork\\LearningC",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\Llvm\\x64\\bin\\clang-cl.exe", "-c", "-Zi", "-FS", "-Fdbuild\\windows\\x64\\debug\\compile.temperatures.pdb", "-Od", "-D_CRT_SECURE_NO_WARNINGS", "/EHsc", "-Fobuild\\.objs\\temperatures\\windows\\x64\\debug\\chapter4\\temperatures.c.obj", "chapter4\\temperatures.c"],
+  "file": "chapter4\\temperatures.c"
+},
+{
+  "directory": "D:\\SaeruHikari\\fork\\LearningC",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\Llvm\\x64\\bin\\clang-cl.exe", "-c", "-Zi", "-FS", "-Fdbuild\\windows\\x64\\debug\\compile.8.pdb", "-Od", "-D_CRT_SECURE_NO_WARNINGS", "/EHsc", "-Fobuild\\.objs\\8\\windows\\x64\\debug\\chapter1\\8.c.obj", "chapter1\\8.c"],
+  "file": "chapter1\\8.c"
+},
+{
+  "directory": "D:\\SaeruHikari\\fork\\LearningC",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\Llvm\\x64\\bin\\clang-cl.exe", "-c", "-Zi", "-FS", "-Fdbuild\\windows\\x64\\debug\\compile.print_words.pdb", "-Od", "-D_CRT_SECURE_NO_WARNINGS", "/EHsc", "-Fobuild\\.objs\\print_words\\windows\\x64\\debug\\chapter1\\print_words.c.obj", "chapter1\\print_words.c"],
+  "file": "chapter1\\print_words.c"
+},
+{
+  "directory": "D:\\SaeruHikari\\fork\\LearningC",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\Llvm\\x64\\bin\\clang-cl.exe", "-c", "-Zi", "-FS", "-Fdbuild\\windows\\x64\\debug\\compile.cube_table.pdb", "-Od", "-D_CRT_SECURE_NO_WARNINGS", "/EHsc", "-Fobuild\\.objs\\cube_table\\windows\\x64\\debug\\chapter5\\cube_table.c.obj", "chapter5\\cube_table.c"],
+  "file": "chapter5\\cube_table.c"
+},
+{
+  "directory": "D:\\SaeruHikari\\fork\\LearningC",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\Llvm\\x64\\bin\\clang-cl.exe", "-c", "-Zi", "-FS", "-Fdbuild\\windows\\x64\\debug\\compile.floaterr.pdb", "-Od", "-D_CRT_SECURE_NO_WARNINGS", "/EHsc", "-Fobuild\\.objs\\floaterr\\windows\\x64\\debug\\chapter2\\floaterr.c.obj", "chapter2\\floaterr.c"],
+  "file": "chapter2\\floaterr.c"
+},
+{
+  "directory": "D:\\SaeruHikari\\fork\\LearningC",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\Llvm\\x64\\bin\\clang-cl.exe", "-c", "-Zi", "-FS", "-Fdbuild\\windows\\x64\\debug\\compile.18_friends.pdb", "-Od", "-D_CRT_SECURE_NO_WARNINGS", "/EHsc", "-Fobuild\\.objs\\18_friends\\windows\\x64\\debug\\chapter5\\18_friends.c.obj", "chapter5\\18_friends.c"],
+  "file": "chapter5\\18_friends.c"
+},
+{
+  "directory": "D:\\SaeruHikari\\fork\\LearningC",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\Llvm\\x64\\bin\\clang-cl.exe", "-c", "-Zi", "-FS", "-Fdbuild\\windows\\x64\\debug\\compile.talkback.pdb", "-Od", "-D_CRT_SECURE_NO_WARNINGS", "/EHsc", "-Fobuild\\.objs\\talkback\\windows\\x64\\debug\\chapter3\\talkback.c.obj", "chapter3\\talkback.c"],
+  "file": "chapter3\\talkback.c"
+},
+{
+  "directory": "D:\\SaeruHikari\\fork\\LearningC",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\Llvm\\x64\\bin\\clang-cl.exe", "-c", "-Zi", "-FS", "-Fdbuild\\windows\\x64\\debug\\compile.print_name3.pdb", "-Od", "-D_CRT_SECURE_NO_WARNINGS", "/EHsc", "-Fobuild\\.objs\\print_name3\\windows\\x64\\debug\\chapter3\\print_name3.c.obj", "chapter3\\print_name3.c"],
+  "file": "chapter3\\print_name3.c"
+},
+{
+  "directory": "D:\\SaeruHikari\\fork\\LearningC",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\Llvm\\x64\\bin\\clang-cl.exe", "-c", "-Zi", "-FS", "-Fdbuild\\windows\\x64\\debug\\compile.escape.pdb", "-Od", "-D_CRT_SECURE_NO_WARNINGS", "/EHsc", "-Fobuild\\.objs\\escape\\windows\\x64\\debug\\chapter2\\escape.c.obj", "chapter2\\escape.c"],
+  "file": "chapter2\\escape.c"
+},
+{
+  "directory": "D:\\SaeruHikari\\fork\\LearningC",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\Llvm\\x64\\bin\\clang-cl.exe", "-c", "-Zi", "-FS", "-Fdbuild\\windows\\x64\\debug\\compile.x_x+10.pdb", "-Od", "-D_CRT_SECURE_NO_WARNINGS", "/EHsc", "-Fobuild\\.objs\\x_x+10\\windows\\x64\\debug\\chapter4\\x_x+10.c.obj", "chapter4\\x_x+10.c"],
+  "file": "chapter4\\x_x+10.c"
+},
+{
+  "directory": "D:\\SaeruHikari\\fork\\LearningC",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\Llvm\\x64\\bin\\clang-cl.exe", "-c", "-Zi", "-FS", "-Fdbuild\\windows\\x64\\debug\\compile.15_reverse3.pdb", "-Od", "-D_CRT_SECURE_NO_WARNINGS", "/EHsc", "-Fobuild\\.objs\\15_reverse3\\windows\\x64\\debug\\chapter5\\15_reverse3.c.obj", "chapter5\\15_reverse3.c"],
+  "file": "chapter5\\15_reverse3.c"
+},
+{
+  "directory": "D:\\SaeruHikari\\fork\\LearningC",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\Llvm\\x64\\bin\\clang-cl.exe", "-c", "-Zi", "-FS", "-Fdbuild\\windows\\x64\\debug\\compile.print_fl.pdb", "-Od", "-D_CRT_SECURE_NO_WARNINGS", "/EHsc", "-Fobuild\\.objs\\print_fl\\windows\\x64\\debug\\chapter3\\print_fl.c.obj", "chapter3\\print_fl.c"],
+  "file": "chapter3\\print_fl.c"
+},
+{
+  "directory": "D:\\SaeruHikari\\fork\\LearningC",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\Llvm\\x64\\bin\\clang-cl.exe", "-c", "-Zi", "-FS", "-Fdbuild\\windows\\x64\\debug\\compile.reverse.pdb", "-Od", "-D_CRT_SECURE_NO_WARNINGS", "/EHsc", "-Fobuild\\.objs\\reverse\\windows\\x64\\debug\\chapter5\\reverse.c.obj", "chapter5\\reverse.c"],
+  "file": "chapter5\\reverse.c"
+},
+{
+  "directory": "D:\\SaeruHikari\\fork\\LearningC",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\Llvm\\x64\\bin\\clang-cl.exe", "-c", "-Zi", "-FS", "-Fdbuild\\windows\\x64\\debug\\compile.print_jolly.pdb", "-Od", "-D_CRT_SECURE_NO_WARNINGS", "/EHsc", "-Fobuild\\.objs\\print_jolly\\windows\\x64\\debug\\chapter1\\print_jolly.c.obj", "chapter1\\print_jolly.c"],
+  "file": "chapter1\\print_jolly.c"
+},
+{
+  "directory": "D:\\SaeruHikari\\fork\\LearningC",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\Llvm\\x64\\bin\\clang-cl.exe", "-c", "-Zi", "-FS", "-Fdbuild\\windows\\x64\\debug\\compile.height.pdb", "-Od", "-D_CRT_SECURE_NO_WARNINGS", "/EHsc", "-Fobuild\\.objs\\height\\windows\\x64\\debug\\chapter2\\height.c.obj", "chapter2\\height.c"],
+  "file": "chapter2\\height.c"
+},
+{
+  "directory": "D:\\SaeruHikari\\fork\\LearningC",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\Llvm\\x64\\bin\\clang-cl.exe", "-c", "-Zi", "-FS", "-Fdbuild\\windows\\x64\\debug\\compile.addemup.pdb", "-Od", "-D_CRT_SECURE_NO_WARNINGS", "/EHsc", "-Fobuild\\.objs\\addemup\\windows\\x64\\debug\\chapter4\\addemup.c.obj", "chapter4\\addemup.c"],
+  "file": "chapter4\\addemup.c"
+},
+{
+  "directory": "D:\\SaeruHikari\\fork\\LearningC",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\Llvm\\x64\\bin\\clang-cl.exe", "-c", "-Zi", "-FS", "-Fdbuild\\windows\\x64\\debug\\compile.printf_$.pdb", "-Od", "-D_CRT_SECURE_NO_WARNINGS", "/EHsc", "-Fobuild\\.objs\\printf_$\\windows\\x64\\debug\\chapter5\\printf_$.c.obj", "chapter5\\printf_$.c"],
+  "file": "chapter5\\printf_$.c"
+},
+{
+  "directory": "D:\\SaeruHikari\\fork\\LearningC",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\Llvm\\x64\\bin\\clang-cl.exe", "-c", "-Zi", "-FS", "-Fdbuild\\windows\\x64\\debug\\compile.cm_inch.pdb", "-Od", "-D_CRT_SECURE_NO_WARNINGS", "/EHsc", "-Fobuild\\.objs\\cm_inch\\windows\\x64\\debug\\chapter4\\cm_inch.c.obj", "chapter4\\cm_inch.c"],
+  "file": "chapter4\\cm_inch.c"
+},
+{
+  "directory": "D:\\SaeruHikari\\fork\\LearningC",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\Llvm\\x64\\bin\\clang-cl.exe", "-c", "-Zi", "-FS", "-Fdbuild\\windows\\x64\\debug\\compile.power_2.pdb", "-Od", "-D_CRT_SECURE_NO_WARNINGS", "/EHsc", "-Fobuild\\.objs\\power_2\\windows\\x64\\debug\\chapter5\\power_2.c.obj", "chapter5\\power_2.c"],
+  "file": "chapter5\\power_2.c"
+},
+{
+  "directory": "D:\\SaeruHikari\\fork\\LearningC",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\Llvm\\x64\\bin\\clang-cl.exe", "-c", "-Zi", "-FS", "-Fdbuild\\windows\\x64\\debug\\compile.moduli.pdb", "-Od", "-D_CRT_SECURE_NO_WARNINGS", "/EHsc", "-Fobuild\\.objs\\moduli\\windows\\x64\\debug\\chapter4\\moduli.c.obj", "chapter4\\moduli.c"],
+  "file": "chapter4\\moduli.c"
+},
+{
+  "directory": "D:\\SaeruHikari\\fork\\LearningC",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\Llvm\\x64\\bin\\clang-cl.exe", "-c", "-Zi", "-FS", "-Fdbuild\\windows\\x64\\debug\\compile.7-8_paint.pdb", "-Od", "-D_CRT_SECURE_NO_WARNINGS", "/EHsc", "-Fobuild\\.objs\\7-8_paint\\windows\\x64\\debug\\chapter6\\7-8_paint.c.obj", "chapter6\\7-8_paint.c"],
+  "file": "chapter6\\7-8_paint.c"
+},
+{
+  "directory": "D:\\SaeruHikari\\fork\\LearningC",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\Llvm\\x64\\bin\\clang-cl.exe", "-c", "-Zi", "-FS", "-Fdbuild\\windows\\x64\\debug\\compile.cube.pdb", "-Od", "-D_CRT_SECURE_NO_WARNINGS", "/EHsc", "-Fobuild\\.objs\\cube\\windows\\x64\\debug\\chapter4\\cube.c.obj", "chapter4\\cube.c"],
+  "file": "chapter4\\cube.c"
+},
+{
+  "directory": "D:\\SaeruHikari\\fork\\LearningC",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\Llvm\\x64\\bin\\clang-cl.exe", "-c", "-Zi", "-FS", "-Fdbuild\\windows\\x64\\debug\\compile.print_name2.pdb", "-Od", "-D_CRT_SECURE_NO_WARNINGS", "/EHsc", "-Fobuild\\.objs\\print_name2\\windows\\x64\\debug\\chapter3\\print_name2.c.obj", "chapter3\\print_name2.c"],
+  "file": "chapter3\\print_name2.c"
+},
+{
+  "directory": "D:\\SaeruHikari\\fork\\LearningC",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\Llvm\\x64\\bin\\clang-cl.exe", "-c", "-Zi", "-FS", "-Fdbuild\\windows\\x64\\debug\\compile.print_name.pdb", "-Od", "-D_CRT_SECURE_NO_WARNINGS", "/EHsc", "-Fobuild\\.objs\\print_name\\windows\\x64\\debug\\chapter1\\print_name.c.obj", "chapter1\\print_name.c"],
+  "file": "chapter1\\print_name.c"
+},
+{
+  "directory": "D:\\SaeruHikari\\fork\\LearningC",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\Llvm\\x64\\bin\\clang-cl.exe", "-c", "-Zi", "-FS", "-Fdbuild\\windows\\x64\\debug\\compile.squared.pdb", "-Od", "-D_CRT_SECURE_NO_WARNINGS", "/EHsc", "-Fobuild\\.objs\\squared\\windows\\x64\\debug\\chapter1\\squared.c.obj", "chapter1\\squared.c"],
+  "file": "chapter1\\squared.c"
+},
+{
+  "directory": "D:\\SaeruHikari\\fork\\LearningC",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\Llvm\\x64\\bin\\clang-cl.exe", "-c", "-Zi", "-FS", "-Fdbuild\\windows\\x64\\debug\\compile.cha_ji.pdb", "-Od", "-D_CRT_SECURE_NO_WARNINGS", "/EHsc", "-Fobuild\\.objs\\cha_ji\\windows\\x64\\debug\\chapter5\\cha_ji.c.obj", "chapter5\\cha_ji.c"],
+  "file": "chapter5\\cha_ji.c"
+},
+{
+  "directory": "D:\\SaeruHikari\\fork\\LearningC",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\Llvm\\x64\\bin\\clang-cl.exe", "-c", "-Zi", "-FS", "-Fdbuild\\windows\\x64\\debug\\compile.day_week.pdb", "-Od", "-D_CRT_SECURE_NO_WARNINGS", "/EHsc", "-Fobuild\\.objs\\day_week\\windows\\x64\\debug\\chapter4\\day_week.c.obj", "chapter4\\day_week.c"],
+  "file": "chapter4\\day_week.c"
+},
+{
+  "directory": "D:\\SaeruHikari\\fork\\LearningC",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\Llvm\\x64\\bin\\clang-cl.exe", "-c", "-Zi", "-FS", "-Fdbuild\\windows\\x64\\debug\\compile.letter.pdb", "-Od", "-D_CRT_SECURE_NO_WARNINGS", "/EHsc", "-Fobuild\\.objs\\letter\\windows\\x64\\debug\\chapter5\\letter.c.obj", "chapter5\\letter.c"],
+  "file": "chapter5\\letter.c"
+},
+{
+  "directory": "D:\\SaeruHikari\\fork\\LearningC",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\Llvm\\x64\\bin\\clang-cl.exe", "-c", "-Zi", "-FS", "-Fdbuild\\windows\\x64\\debug\\compile.17_withdraw cash.pdb", "-Od", "-D_CRT_SECURE_NO_WARNINGS", "/EHsc", "-Fobuild\\.objs\\17_withdraw cash\\windows\\x64\\debug\\chapter5\\17_withdraw cash.c.obj", "chapter5\\17_withdraw cash.c"],
+  "file": "chapter5\\17_withdraw cash.c"
+},
+{
+  "directory": "D:\\SaeruHikari\\fork\\LearningC",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\Llvm\\x64\\bin\\clang-cl.exe", "-c", "-Zi", "-FS", "-Fdbuild\\windows\\x64\\debug\\compile.double.pdb", "-Od", "-D_CRT_SECURE_NO_WARNINGS", "/EHsc", "-Fobuild\\.objs\\double\\windows\\x64\\debug\\chapter5\\double.c.obj", "chapter5\\double.c"],
+  "file": "chapter5\\double.c"
+},
+{
+  "directory": "D:\\SaeruHikari\\fork\\LearningC",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\Llvm\\x64\\bin\\clang-cl.exe", "-c", "-Zi", "-FS", "-Fdbuild\\windows\\x64\\debug\\compile.int_reverse.pdb", "-Od", "-D_CRT_SECURE_NO_WARNINGS", "/EHsc", "-Fobuild\\.objs\\int_reverse\\windows\\x64\\debug\\chapter5\\int_reverse.c.obj", "chapter5\\int_reverse.c"],
+  "file": "chapter5\\int_reverse.c"
+},
+{
+  "directory": "D:\\SaeruHikari\\fork\\LearningC",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\Llvm\\x64\\bin\\clang-cl.exe", "-c", "-Zi", "-FS", "-Fdbuild\\windows\\x64\\debug\\compile.16_interest_1.pdb", "-Od", "-D_CRT_SECURE_NO_WARNINGS", "/EHsc", "-Fobuild\\.objs\\16_interest_1\\windows\\x64\\debug\\chapter5\\16_interest_1.c.obj", "chapter5\\16_interest_1.c"],
+  "file": "chapter5\\16_interest_1.c"
+},
+{
+  "directory": "D:\\SaeruHikari\\fork\\LearningC",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\Llvm\\x64\\bin\\clang-cl.exe", "-c", "-Zi", "-FS", "-Fdbuild\\windows\\x64\\debug\\compile.sums.pdb", "-Od", "-D_CRT_SECURE_NO_WARNINGS", "/EHsc", "-Fobuild\\.objs\\sums\\windows\\x64\\debug\\chapter5\\sums.c.obj", "chapter5\\sums.c"],
+  "file": "chapter5\\sums.c"
+},
+{
+  "directory": "D:\\SaeruHikari\\fork\\LearningC",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\Llvm\\x64\\bin\\clang-cl.exe", "-c", "-Zi", "-FS", "-Fdbuild\\windows\\x64\\debug\\compile.7-7_wordcnt.pdb", "-Od", "-D_CRT_SECURE_NO_WARNINGS", "/EHsc", "-Fobuild\\.objs\\7-7_wordcnt\\windows\\x64\\debug\\chapter6\\7-7_wordcnt.c.obj", "chapter6\\7-7_wordcnt.c"],
+  "file": "chapter6\\7-7_wordcnt.c"
+},
+{
+  "directory": "D:\\SaeruHikari\\fork\\LearningC",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\Llvm\\x64\\bin\\clang-cl.exe", "-c", "-Zi", "-FS", "-Fdbuild\\windows\\x64\\debug\\compile.helloworld.pdb", "-Od", "-D_CRT_SECURE_NO_WARNINGS", "/EHsc", "-Fobuild\\.objs\\helloworld\\windows\\x64\\debug\\chapter1\\helloworld.c.obj", "chapter1\\helloworld.c"],
+  "file": "chapter1\\helloworld.c"
+},
+{
+  "directory": "D:\\SaeruHikari\\fork\\LearningC",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\Llvm\\x64\\bin\\clang-cl.exe", "-c", "-Zi", "-FS", "-Fdbuild\\windows\\x64\\debug\\compile.Fuel measurement.pdb", "-Od", "-D_CRT_SECURE_NO_WARNINGS", "/EHsc", "-Fobuild\\.objs\\Fuel measurement\\windows\\x64\\debug\\chapter3\\Fuel measurement.c.obj", "chapter3\\Fuel measurement.c"],
+  "file": "chapter3\\Fuel measurement.c"
+},
+{
+  "directory": "D:\\SaeruHikari\\fork\\LearningC",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\Llvm\\x64\\bin\\clang-cl.exe", "-c", "-Zi", "-FS", "-Fdbuild\\windows\\x64\\debug\\compile.16_interest.pdb", "-Od", "-D_CRT_SECURE_NO_WARNINGS", "/EHsc", "-Fobuild\\.objs\\16_interest\\windows\\x64\\debug\\chapter5\\16_interest.c.obj", "chapter5\\16_interest.c"],
+  "file": "chapter5\\16_interest.c"
+},
+{
+  "directory": "D:\\SaeruHikari\\fork\\LearningC",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\Llvm\\x64\\bin\\clang-cl.exe", "-c", "-Zi", "-FS", "-Fdbuild\\windows\\x64\\debug\\compile.age_to_days.pdb", "-Od", "-D_CRT_SECURE_NO_WARNINGS", "/EHsc", "-Fobuild\\.objs\\age_to_days\\windows\\x64\\debug\\chapter1\\age_to_days.c.obj", "chapter1\\age_to_days.c"],
+  "file": "chapter1\\age_to_days.c"
+},
+{
+  "directory": "D:\\SaeruHikari\\fork\\LearningC",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\Llvm\\x64\\bin\\clang-cl.exe", "-c", "-Zi", "-FS", "-Fdbuild\\windows\\x64\\debug\\compile.volume.pdb", "-Od", "-D_CRT_SECURE_NO_WARNINGS", "/EHsc", "-Fobuild\\.objs\\volume\\windows\\x64\\debug\\chapter2\\volume.c.obj", "chapter2\\volume.c"],
+  "file": "chapter2\\volume.c"
+},
+{
+  "directory": "D:\\SaeruHikari\\fork\\LearningC",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\Llvm\\x64\\bin\\clang-cl.exe", "-c", "-Zi", "-FS", "-Fdbuild\\windows\\x64\\debug\\compile.A_A.pdb", "-Od", "-D_CRT_SECURE_NO_WARNINGS", "/EHsc", "-Fobuild\\.objs\\A_A\\windows\\x64\\debug\\chapter5\\A_A.c.obj", "chapter5\\A_A.c"],
+  "file": "chapter5\\A_A.c"
+},
+{
+  "directory": "D:\\SaeruHikari\\fork\\LearningC",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\Llvm\\x64\\bin\\clang-cl.exe", "-c", "-Zi", "-FS", "-Fdbuild\\windows\\x64\\debug\\compile.cha_ji1.pdb", "-Od", "-D_CRT_SECURE_NO_WARNINGS", "/EHsc", "-Fobuild\\.objs\\cha_ji1\\windows\\x64\\debug\\chapter5\\cha_ji1.c.obj", "chapter5\\cha_ji1.c"],
+  "file": "chapter5\\cha_ji1.c"
+},
+{
+  "directory": "D:\\SaeruHikari\\fork\\LearningC",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\Llvm\\x64\\bin\\clang-cl.exe", "-c", "-Zi", "-FS", "-Fdbuild\\windows\\x64\\debug\\compile.print_float.pdb", "-Od", "-D_CRT_SECURE_NO_WARNINGS", "/EHsc", "-Fobuild\\.objs\\print_float\\windows\\x64\\debug\\chapter2\\print_float.c.obj", "chapter2\\print_float.c"],
+  "file": "chapter2\\print_float.c"
+},
+{
+  "directory": "D:\\SaeruHikari\\fork\\LearningC",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\Llvm\\x64\\bin\\clang-cl.exe", "-c", "-Zi", "-FS", "-Fdbuild\\windows\\x64\\debug\\compile.controlflow.pdb", "-Od", "-D_CRT_SECURE_NO_WARNINGS", "/EHsc", "-Fobuild\\.objs\\controlflow\\windows\\x64\\debug\\chapter1\\controlflow.c.obj", "chapter1\\controlflow.c"],
+  "file": "chapter1\\controlflow.c"
+},
+{
+  "directory": "D:\\SaeruHikari\\fork\\LearningC",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\Llvm\\x64\\bin\\clang-cl.exe", "-c", "-Zi", "-FS", "-Fdbuild\\windows\\x64\\debug\\compile.min_tour.pdb", "-Od", "-D_CRT_SECURE_NO_WARNINGS", "/EHsc", "-Fobuild\\.objs\\min_tour\\windows\\x64\\debug\\chapter4\\min_tour.c.obj", "chapter4\\min_tour.c"],
+  "file": "chapter4\\min_tour.c"
+},
+{
+  "directory": "D:\\SaeruHikari\\fork\\LearningC",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\Llvm\\x64\\bin\\clang-cl.exe", "-c", "-Zi", "-FS", "-Fdbuild\\windows\\x64\\debug\\compile.F_A.pdb", "-Od", "-D_CRT_SECURE_NO_WARNINGS", "/EHsc", "-Fobuild\\.objs\\F_A\\windows\\x64\\debug\\chapter5\\F_A.c.obj", "chapter5\\F_A.c"],
+  "file": "chapter5\\F_A.c"
+},
+{
+  "directory": "D:\\SaeruHikari\\fork\\LearningC",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\Llvm\\x64\\bin\\clang-cl.exe", "-c", "-Zi", "-FS", "-Fdbuild\\windows\\x64\\debug\\compile.typesize.pdb", "-Od", "-D_CRT_SECURE_NO_WARNINGS", "/EHsc", "-Fobuild\\.objs\\typesize\\windows\\x64\\debug\\chapter2\\typesize.c.obj", "chapter2\\typesize.c"],
+  "file": "chapter2\\typesize.c"
+},
+{
+  "directory": "D:\\SaeruHikari\\fork\\LearningC",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\Llvm\\x64\\bin\\clang-cl.exe", "-c", "-Zi", "-FS", "-Fdbuild\\windows\\x64\\debug\\compile.print_name1.pdb", "-Od", "-D_CRT_SECURE_NO_WARNINGS", "/EHsc", "-Fobuild\\.objs\\print_name1\\windows\\x64\\debug\\chapter3\\print_name1.c.obj", "chapter3\\print_name1.c"],
+  "file": "chapter3\\print_name1.c"
+},
+{
+  "directory": "D:\\SaeruHikari\\fork\\LearningC",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\Llvm\\x64\\bin\\clang-cl.exe", "-c", "-Zi", "-FS", "-Fdbuild\\windows\\x64\\debug\\compile.print_second.pdb", "-Od", "-D_CRT_SECURE_NO_WARNINGS", "/EHsc", "-Fobuild\\.objs\\print_second\\windows\\x64\\debug\\chapter2\\print_second.c.obj", "chapter2\\print_second.c"],
+  "file": "chapter2\\print_second.c"
+},
+{
+  "directory": "D:\\SaeruHikari\\fork\\LearningC",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\Llvm\\x64\\bin\\clang-cl.exe", "-c", "-Zi", "-FS", "-Fdbuild\\windows\\x64\\debug\\compile.defines.pdb", "-Od", "-D_CRT_SECURE_NO_WARNINGS", "/EHsc", "-Fobuild\\.objs\\defines\\windows\\x64\\debug\\chapter3\\defines.c.obj", "chapter3\\defines.c"],
+  "file": "chapter3\\defines.c"
+},
+{
+  "directory": "D:\\SaeruHikari\\fork\\LearningC",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\Llvm\\x64\\bin\\clang-cl.exe", "-c", "-Zi", "-FS", "-Fdbuild\\windows\\x64\\debug\\compile.print_DIG.pdb", "-Od", "-D_CRT_SECURE_NO_WARNINGS", "/EHsc", "-Fobuild\\.objs\\print_DIG\\windows\\x64\\debug\\chapter3\\print_DIG.c.obj", "chapter3\\print_DIG.c"],
+  "file": "chapter3\\print_DIG.c"
+},
+{
+  "directory": "D:\\SaeruHikari\\fork\\LearningC",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\Llvm\\x64\\bin\\clang-cl.exe", "-c", "-Zi", "-FS", "-Fdbuild\\windows\\x64\\debug\\compile.quarts.pdb", "-Od", "-D_CRT_SECURE_NO_WARNINGS", "/EHsc", "-Fobuild\\.objs\\quarts\\windows\\x64\\debug\\chapter2\\quarts.c.obj", "chapter2\\quarts.c"],
+  "file": "chapter2\\quarts.c"
+},
+{
+  "directory": "D:\\SaeruHikari\\fork\\LearningC",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\Llvm\\x64\\bin\\clang-cl.exe", "-c", "-Zi", "-FS", "-Fdbuild\\windows\\x64\\debug\\compile.print_country.pdb", "-Od", "-D_CRT_SECURE_NO_WARNINGS", "/EHsc", "-Fobuild\\.objs\\print_country\\windows\\x64\\debug\\chapter1\\print_country.c.obj", "chapter1\\print_country.c"],
+  "file": "chapter1\\print_country.c"
+},
+{
+  "directory": "D:\\SaeruHikari\\fork\\LearningC",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\Llvm\\x64\\bin\\clang-cl.exe", "-c", "-Zi", "-FS", "-Fdbuild\\windows\\x64\\debug\\compile.addemup1.pdb", "-Od", "-D_CRT_SECURE_NO_WARNINGS", "/EHsc", "-Fobuild\\.objs\\addemup1\\windows\\x64\\debug\\chapter4\\addemup1.c.obj", "chapter4\\addemup1.c"],
+  "file": "chapter4\\addemup1.c"
+},
+{
+  "directory": "D:\\SaeruHikari\\fork\\LearningC",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\Llvm\\x64\\bin\\clang-cl.exe", "-c", "-Zi", "-FS", "-Fdbuild\\windows\\x64\\debug\\compile.print_height.pdb", "-Od", "-D_CRT_SECURE_NO_WARNINGS", "/EHsc", "-Fobuild\\.objs\\print_height\\windows\\x64\\debug\\chapter3\\print_height.c.obj", "chapter3\\print_height.c"],
+  "file": "chapter3\\print_height.c"
+},
+{
+  "directory": "D:\\SaeruHikari\\fork\\LearningC",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\Llvm\\x64\\bin\\clang-cl.exe", "-c", "-Zi", "-FS", "-Fdbuild\\windows\\x64\\debug\\compile.print_text.pdb", "-Od", "-D_CRT_SECURE_NO_WARNINGS", "/EHsc", "-Fobuild\\.objs\\print_text\\windows\\x64\\debug\\chapter2\\print_text.c.obj", "chapter2\\print_text.c"],
+  "file": "chapter2\\print_text.c"
+},
+{
+  "directory": "D:\\SaeruHikari\\fork\\LearningC",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\Llvm\\x64\\bin\\clang-cl.exe", "-c", "-Zi", "-FS", "-Fdbuild\\windows\\x64\\debug\\compile.A_U.pdb", "-Od", "-D_CRT_SECURE_NO_WARNINGS", "/EHsc", "-Fobuild\\.objs\\A_U\\windows\\x64\\debug\\chapter5\\A_U.c.obj", "chapter5\\A_U.c"],
+  "file": "chapter5\\A_U.c"
+},
+{
+  "directory": "D:\\SaeruHikari\\fork\\LearningC",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\Llvm\\x64\\bin\\clang-cl.exe", "-c", "-Zi", "-FS", "-Fdbuild\\windows\\x64\\debug\\compile.showf_pt.pdb", "-Od", "-D_CRT_SECURE_NO_WARNINGS", "/EHsc", "-Fobuild\\.objs\\showf_pt\\windows\\x64\\debug\\chapter2\\showf_pt.c.obj", "chapter2\\showf_pt.c"],
+  "file": "chapter2\\showf_pt.c"
+},
+{
+  "directory": "D:\\SaeruHikari\\fork\\LearningC",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\Llvm\\x64\\bin\\clang-cl.exe", "-c", "-Zi", "-FS", "-Fdbuild\\windows\\x64\\debug\\compile.print_smile.pdb", "-Od", "-D_CRT_SECURE_NO_WARNINGS", "/EHsc", "-Fobuild\\.objs\\print_smile\\windows\\x64\\debug\\chapter1\\print_smile.c.obj", "chapter1\\print_smile.c"],
+  "file": "chapter1\\print_smile.c"
+},
+{
+  "directory": "D:\\SaeruHikari\\fork\\LearningC",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\Llvm\\x64\\bin\\clang-cl.exe", "-c", "-Zi", "-FS", "-Fdbuild\\windows\\x64\\debug\\compile.print_speed.pdb", "-Od", "-D_CRT_SECURE_NO_WARNINGS", "/EHsc", "-Fobuild\\.objs\\print_speed\\windows\\x64\\debug\\chapter3\\print_speed.c.obj", "chapter3\\print_speed.c"],
+  "file": "chapter3\\print_speed.c"
+},
+{
+  "directory": "D:\\SaeruHikari\\fork\\LearningC",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\Llvm\\x64\\bin\\clang-cl.exe", "-c", "-Zi", "-FS", "-Fdbuild\\windows\\x64\\debug\\compile.print_ASCII.pdb", "-Od", "-D_CRT_SECURE_NO_WARNINGS", "/EHsc", "-Fobuild\\.objs\\print_ASCII\\windows\\x64\\debug\\chapter2\\print_ASCII.c.obj", "chapter2\\print_ASCII.c"],
+  "file": "chapter2\\print_ASCII.c"
+},
+{
+  "directory": "D:\\SaeruHikari\\fork\\LearningC",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\Llvm\\x64\\bin\\clang-cl.exe", "-c", "-Zi", "-FS", "-Fdbuild\\windows\\x64\\debug\\compile.week.pdb", "-Od", "-D_CRT_SECURE_NO_WARNINGS", "/EHsc", "-Fobuild\\.objs\\week\\windows\\x64\\debug\\chapter1\\week.c.obj", "chapter1\\week.c"],
+  "file": "chapter1\\week.c"
+},
+{
+  "directory": "D:\\SaeruHikari\\fork\\LearningC",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\Llvm\\x64\\bin\\clang-cl.exe", "-c", "-Zi", "-FS", "-Fdbuild\\windows\\x64\\debug\\compile.print_one_three.pdb", "-Od", "-D_CRT_SECURE_NO_WARNINGS", "/EHsc", "-Fobuild\\.objs\\print_one_three\\windows\\x64\\debug\\chapter1\\print_one_three.c.obj", "chapter1\\print_one_three.c"],
+  "file": "chapter1\\print_one_three.c"
+}]
