@@ -6,8 +6,10 @@ int main()
     printf("Now you have ___ quarts of water.\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b");
     float quart;
     scanf("%f", &quart);
-    double      gram = quart * 950;
-    long double number = gram / 3e-23;
+    double gram = quart * 950;
+    // long double number = gram / 3e-23;
+    // do not use 'long double' type, double is alternative to float64 and is always enough
+    double number = gram / 3e-23;
     printf("There are %le water molecules in %f quart of water.", number, quart);
     return 0;
 }
